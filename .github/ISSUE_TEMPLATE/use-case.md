@@ -1,6 +1,6 @@
 ---
 name: use case
-about: Suggest an idea for this project
+about: Documenting use cases
 title: ''
 labels: ''
 assignees: ''
