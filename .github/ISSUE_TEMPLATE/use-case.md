@@ -16,5 +16,8 @@ High level description of the type of digital object that is the focus of the us
 **How objects relates to our records**
 How would this digital object be represented in a Library Management System. Ex. One bibliographic record, three items.
 
+
+**How objects represented in bag**
+In a high level sense, how is this digital object stored on disk within a bag? Ex. "Each video file gets its own bag", or " Store all video files in one bag".
 **Additional context**
 Add any other context or screenshots about the feature request here.
